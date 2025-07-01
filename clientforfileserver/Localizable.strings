@@ -1,0 +1,49 @@
+/* 
+  Localizable.strings
+  clientforfileserver
+
+  Created by FTP Client on 2024.
+*/
+
+"Add Server" = "Добавить сервер";
+"Connection failed" = "Ошибка соединения";
+"Download File" = "Скачать файл";
+"Not connected" = "Нет соединения";
+"Files" = "Файлы";
+"Servers" = "Серверы";
+"Connection Status" = "Статус соединения";
+"Connected" = "Подключено";
+"Disconnected" = "Отключено";
+"Connecting..." = "Подключение...";
+"Server Name" = "Имя сервера";
+"Host" = "Хост";
+"Port" = "Порт";
+"Username" = "Имя пользователя";
+"Password" = "Пароль";
+"Protocol" = "Протокол";
+"SFTP" = "SFTP";
+"FTP" = "FTP";
+"Cancel" = "Отмена";
+"Save & Connect" = "Сохранить и подключиться";
+"SSH Terminal" = "SSH Терминал";
+"Enter command..." = "Введите команду...";
+"Send" = "Отправить";
+"Terminal ready..." = "Терминал готов...";
+"Command executed successfully" = "Команда выполнена успешно";
+"Command failed" = "Команда не выполнена";
+"Refresh" = "Обновить";
+"Select a server from the sidebar to connect" = "Выберите сервер из боковой панели для подключения";
+"Add or close server tabs" = "Добавить или закрыть вкладки серверов";
+"Welcome!" = "Добро пожаловать!";
+"Author:" = "Автор:";
+"Exit" = "Выйти";
+"GitHub:" = "GitHub:";
+"Add server" = "Добавить сервер";
+"Language" = "Язык";
+"Fast and secure connection to your servers. Manage your files easily and in a modern way." = "Быстрое и безопасное подключение к вашим серверам. Управляйте файлами удобно и современно.";
+"Delete selected" = "Удалить выбранные";
+"Selected files" = "Выбранные файлы";
+"Download" = "Скачать";
+"Copy path" = "Скопировать путь";
+"Deselect" = "Снять выделение";
+"Deselect all" = "Снять выделение"; 
