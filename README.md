@@ -31,9 +31,9 @@
 
 <div align="center">
 
-![Video Placeholder](video.mp4)
+![Video Placeholder](video.gif)
 
-*Видео демонстрация работы приложения*
+*GIF демонстрация основных функций*
 
 </div>
 
@@ -227,9 +227,9 @@ clientforfileserver/
 
 <div align="center">
 
-![Video Placeholder](video.mp4)
+![Video Placeholder](video.gif)
 
-*Video demonstration of the application*
+*Gif demonstration of the application*
 
 </div>
 
